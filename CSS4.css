@@ -1,0 +1,144 @@
+#week-pn {
+	background-color: #c0c0c0;
+	text-align: center;
+	border: 1px solid black;
+}
+#week-vt {
+	background-color: #c0c0c0;
+	text-align: center;
+	border: 1px solid black;
+}
+#week-sr {
+	background-color: #c0c0c0;
+	text-align: center;
+	border: 1px solid black;
+}
+#week-cht {
+	background-color: #c0c0c0;
+	text-align: center;
+	border: 1px solid black;
+}
+#week-pt {
+	background-color: #c0c0c0;
+	text-align: center;
+	border: 1px solid black;
+}
+#week-sb {
+	background-color: #c0c0c0;
+	text-align: center;
+	border: 1px solid black;
+	color: red
+}
+#week-vs {
+	background-color: #c0c0c0;
+	text-align: center;
+	border: 1px solid black;
+	color: red
+}
+#data1 {
+	text-align: center;
+	border: 1px solid black;
+	background-color: white
+}
+#data2 {
+	text-align: center;
+	border: 1px solid black;
+	background-color: white
+}
+#data3 {
+	text-align: center;
+	border: 1px solid black;
+	background-color: white
+}
+#data4 {
+	text-align: center;
+	border: 1px solid black;
+	background-color: white
+}
+#data5 {
+	text-align: center;
+	border: 1px solid black;
+	background-color: white
+}
+#data6 {
+	text-align: center;
+	border: 1px solid black;
+	color: red;
+	background-color: white
+}
+#data7 {
+	text-align: center;
+	border: 1px solid black;
+	color: red;
+	background-color: white
+}
+#table {
+	border: 1px solid black;
+	margin-left: 400px
+
+}
+.header {
+	background-color: black;
+	color: white;
+	cursor: pointer;
+	padding: 10px;
+}
+.footer {
+	background-color: black;
+	padding: 10px;
+	color: white;
+	cursor: pointer;
+	
+
+}
+.main {
+	padding: 50px;
+	background-color: #c0c0c0;
+}
+.table2 {
+	width: 1000px;
+	padding-left: 100px;
+	padding-top: 50px
+
+}
+#a {
+	color: red
+}
+#a1 {
+	color: red
+}
+.th {
+	width: 1000px;
+	padding-left: 150px;
+	padding-right: 100px;
+}
+.button {
+	border: none;
+	background-color: yellow;
+	color: black; 
+}
+#name {
+	margin-left: 250px
+}
+.body {
+	background-color: black;
+
+}
+.img {
+	width: 150px;
+	height: 100px;
+}
+.zag {
+	text-align: center;
+}
+.dataex {
+	text-align: center;
+	border: 1px solid black;
+	color: red;
+	background-color: white
+}
+.data {
+	background-color: #ffffff;
+	text-align: center;
+	border: 1px solid black;
+}
